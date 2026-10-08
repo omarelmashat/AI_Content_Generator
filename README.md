@@ -4,7 +4,7 @@ A Python app that generates blog posts, emails, social media captions and
 product descriptions using the Cohere API. Choose the content type, tone and
 length, then use it from a command-line menu or a Streamlit web interface.
 
-![Screenshot](AI Content Generator.png)
+![Screenshot](screenshot.png)
 
 ## Features
 - 4 content types, 3 tones, 3 lengths
